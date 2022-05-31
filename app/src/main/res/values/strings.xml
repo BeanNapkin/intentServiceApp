@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">intentServiceApp</string>
+    <string name="service">Сервис</string>
+    <string name="toast_service">TOAST SERVICE</string>
+    <string name="toast_intent_service">Toast intent service</string>
+    <string name="bind_toast_service">Bind toast service</string>
 </resources>
